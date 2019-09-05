@@ -5,7 +5,11 @@
 * GET requests
 * Server /client responses & relationship overview
 * APIs
+<<<<<<< HEAD
     - Application Programming Interface - Programmatically interacting with an application
+=======
+  - Application Programming Interface - Programmatically interacting with an application
+>>>>>>> 9ee334c99ebe7c4f980b2322dca7a38bc24b8b01
 * JSON (string formatted as a hash/object)
 
 ### Deliverables
